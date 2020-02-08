@@ -1,0 +1,23 @@
+{
+  "name": "clovis-lambda-convert-and-upload-image-to-tiles",
+  "version": "1.0.0",
+  "description": "Conversion lib for blueprint big image to tiles",
+  "main": "app.js",
+  "repository": "https://github.com/awslabs/aws-sam-cli/tree/develop/samcli/local/init/templates/cookiecutter-aws-sam-hello-nodejs",
+  "author": "SAM CLI",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "fs-extra": "^8.1.0",
+    "lodash": "^4.17.15",
+    "sharp": "^0.24.0"
+  },
+  "scripts": {
+    "start": "npm test",
+    "test": "mocha tests/unit/ --timeout 100000 --verbose=true"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
