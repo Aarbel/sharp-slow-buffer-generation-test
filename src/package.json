@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "@jimp/plugin-crop": "^0.9.3",
-    "aws-sdk": "^2.612.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.18.0",
     "bluebird": "^3.7.2",
     "fs-extra": "^8.1.0",
